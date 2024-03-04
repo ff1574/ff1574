@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ff1574" alt="ff1574" /></a> </p>
 
-- 🔭 I’m currently working on **a web application**
+- 🌱 I’m currently learning **Cordova & Vue.js**
 
-- 🌱 I’m currently learning **Cordova, Vue.js**
-
-- 👨‍💻 All of my projects are available at [franko-portfolio.netlify.app/](franko-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Web Portfolio/](franko-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Spring Boot, MySQL**
 
