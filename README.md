@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ff1574&label=Profile%20views&color=0e75b6&style=flat" alt="ff1574" /> </p>
 
-- 🌱 I’m currently learning **Cordova & Vue.js**
+- 🌱 I’m currently learning **Game Development**
 
 - 👨‍💻 All of my projects are available at [My Web Portfolio](franko-portfolio.netlify.app/)
 
