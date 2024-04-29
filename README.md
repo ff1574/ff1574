@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Game Development**
 
-- 👨‍💻 All of my projects are available at [My Web Portfolio](franko-portfolio.netlify.app/)
+- 👨‍💻 Most of my projects are available at [My Web Portfolio](franko-portfolio.netlify.app/)
 
 - 💬 Ask me about **React, Spring Boot, MySQL**
 
